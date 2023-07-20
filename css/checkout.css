@@ -3,7 +3,8 @@ body {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-bottom: 3rem; 
-    background-image: url('../checkout/checkout.html');
+    background-image: url(../checkout/checkoutpage.jpg);
     background-repeat: repeat;
     background-attachment: scroll;
 }
+
